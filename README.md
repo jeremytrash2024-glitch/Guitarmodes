@@ -1,0 +1,2 @@
+# Guitarmodes
+Trouver la note 
